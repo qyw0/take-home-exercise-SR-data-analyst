@@ -11,7 +11,7 @@ This event captures the Editor performing any kind of lighting bake (light probe
 | parameters.computeRealtime | True if realtime GI is enabled, false otherwise. |
 | parameters.computeBaked | True if baked GI is enabled, false otherwise. |
 | parameters.outcome | The result of the baking process:\*\*\* **success** : the bake completed successfully.\*\*\ ***cancelled** : the bake was explicitly cancelled, either via the UI or API.\*\*\ ***forcestop** : the bake was &#39;force stopped&#39;, which only applies to the progressive lightmapper. \*\*\* **interrupted** : the bake event was ended because the bake settings changed. A new bake event should immediately follow this one with the new settings. |
-| Realtime GI parameters - omitted if Realtime GI is not enabled |
+| Realtime GI parameters - omitted if Realtime GI is not enabled | more data |
 | parameters.indirectResolution | The value of the &#39;Indirect Resolution&#39; lightmapping parameter. |
 | Baked GI parameters - omitted if Baked GI is not enabled |
 | parameters.lightmapResolution | The value of the &#39;Lightmap Resolution&#39; lightmapping parameter. |
