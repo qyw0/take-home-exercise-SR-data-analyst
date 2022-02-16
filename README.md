@@ -1,2 +1,4 @@
 # Senior-Data-Analysts
-This is a "Take home" task
+Data & Analytics, Core Unity & Cloud
+
+**Take-Home Exercise**
