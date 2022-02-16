@@ -33,3 +33,11 @@ _What is Light Baking in the context of Unity?_
 - How many used compute baked within each “bakeBackend”?
 - What is the most used size of our light map size?
 #
+
+### How would you present the outcome to the team?
+
+You are going to present the outcome to the team that owns the product. This will be the Unity product manager and internal developers working on the product.
+
+Expected outcome would be easy to read highlights and detailed views both in graph, number, table, and context.
+
+For this task the tools used would be SQL and/or Python and the code used should be included together with the report. If Python is used then information about the packages should be included as well.
