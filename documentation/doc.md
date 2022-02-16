@@ -2,8 +2,7 @@
 
 This event captures the Editor performing any kind of lighting bake (light probes, Enlighten realtime GI, progressive lightmapper, etc).
 
-| duration | The total time between the bake operation beginning and ending.
-When lighting is being &#39;auto generated&#39;, the beginning of the bake is taken to mean the point at which any actual data update task begins to happen (GIPreprocessManager::EnterStage / PVRScopedProgress). The end of the bake is when there are no further outstanding jobs. |
+| duration | The total time between the bake operation beginning and ending. When lighting is being &#39;auto generated&#39;, the beginning of the bake is taken to mean the point at which any actual data update task begins to happen (GIPreprocessManager::EnterStage / PVRScopedProgress). The end of the bake is when there are no further outstanding jobs. |
 | --- | --- |
 | blocking | Lighting computation is usually run in the background, in which case this is false. However, there are some scenarios in which it happens synchronously, such as during the build process; in this situation it will be true. |
 | parameters.autoGenerate | True if the bake is beginning due to &#39;Auto Generate&#39; lightmaps mode initiating the bake; false if the bake was initiated manually (via the UI or API). |
