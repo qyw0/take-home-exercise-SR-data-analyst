@@ -8,5 +8,5 @@ The Lightning team at Unity is looking for a better understanding of how Creator
 _Background:_
 _What is Light Baking in the context of Unity?_
 
-- [How to build Lightmaps in Unity 2020.1 | Tutorial](How to build Lightmaps in Unity 2020.1 | Tutorial)
+- [How to build Lightmaps in Unity 2020.1 | Tutorial](https://www.youtube.com/watch?v=KJ4fl-KBDR8)
 - Unity Editor documentation: Light Mode: Baked
