@@ -13,9 +13,13 @@ This event captures the Editor performing any kind of lighting bake (light probe
 | parameters.outcome | The result of the baking process:\*\*\* **success** : the bake completed successfully.\*\*\ ***cancelled** : the bake was explicitly cancelled, either via the UI or API.\*\*\ ***forcestop** : the bake was &#39;force stopped&#39;, which only applies to the progressive lightmapper. \*\*\* **interrupted** : the bake event was ended because the bake settings changed. A new bake event should immediately follow this one with the new settings. |
 
 ## Realtime GI parameters - omitted if Realtime GI is not enabled
+|.|.|
 | --- | --- |
 | parameters.indirectResolution | The value of the &#39;Indirect Resolution&#39; lightmapping parameter. |
-| Baked GI parameters - omitted if Baked GI is not enabled |
+
+## Baked GI parameters - omitted if Baked GI is not enabled
+|.|.|
+| --- | --- |
 | parameters.lightmapResolution | The value of the &#39;Lightmap Resolution&#39; lightmapping parameter. |
 | parameters.compressLightmaps | True if the &#39;Compress Lightmaps&#39; flag is enabled, false otherwise. |
 | parameters.lightmapSize | The value set for &#39;Lightmap Size&#39; |
