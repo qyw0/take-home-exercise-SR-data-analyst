@@ -19,17 +19,23 @@ This event captures the Editor performing any kind of lighting bake (light probe
 | parameters.indirectResolution | The value of the &#39;Indirect Resolution&#39; lightmapping parameter. |
 
 ## Baked GI parameters - omitted if Baked GI is not enabled
-|.|.|
+| Parameter | Description |
 | --- | --- |
 | parameters.lightmapResolution | The value of the &#39;Lightmap Resolution&#39; lightmapping parameter. |
 | parameters.compressLightmaps | True if the &#39;Compress Lightmaps&#39; flag is enabled, false otherwise. |
 | parameters.lightmapSize | The value set for &#39;Lightmap Size&#39; |
-| Final Gather parameters - omitted if Final Gather is not enabled |
+## Final Gather parameters - omitted if Final Gather is not enabled
+| Parameter | Description |
+| --- | --- |
 | parameters.enlighten.finalGather.rayCount | If Final Gather is enabled, the number of rays it is set to use. |
 | parameters.enlighten.finalGather.denoise | True if Denoising is enabled for Final Gather, false otherwise. |
-| Ambient Occlusion parameters - omitted if Ambient Occlusion and Baked GI are not enabled |
+## Ambient Occlusion parameters - omitted if Ambient Occlusion and Baked GI are not enabled
+| Parameter | Description |
+| --- | --- |
 | parameters.ambientOcclusion.maxDistance | The maximum distance value for computing Ambient Occlusion rays. |
-| Progressive Lightmapper parameters - omitted if not using the progressive lightmapper |
+## Progressive Lightmapper parameters - omitted if not using the progressive lightmapper
+| Parameter | Description |
+| --- | --- |
 | parameters.progressive.directSamples | The number of direct samples specified for the progressive lightmapper. |
 | parameters.progressive.indirectSamples | The number of indirect samples specified for the progressive lightmapper. |
 | parameters.progressive.bounces | The number of bounces specified for the progressive lightmapper. |
