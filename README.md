@@ -1,4 +1,4 @@
-## Problem Description
+## Problem description
 
 The Lightning product area working within our large Unity Editor tribe are looking for a better understanding of how Creators use their products and features, and have come to you for help. Your task is to help the teams validate or refine their questions of interest, explore relevant datasets at our disposal, ask clarifying questions as you progress, and report the main findings and insights back to them at the end. Your primary contacts for the task at hand are 1) the Product Manager of Lightning, and 2) the Engineering Manager of Lightning. Both have related, but different questions that are listed below.
 
@@ -23,7 +23,7 @@ _What is Light Baking in the context of Unity?_
 - How many Creators use the Menu button in the Unity Editor to find our Lightning tools?
 - What is the preferred Lightmap size?
 
-## Assignment
+## Your assignment
 
 **Step 1:**\
 Explore and decribe the information contained in the datasets found in the **data** folder in words (!), including any limitations you wish to highlight. Useful information can be found under **documentation**.\
@@ -32,8 +32,12 @@ Visualise and describe your main findings to the PM.\
 **Step 3:**\
 Visualise and describe your main findings to the EM.
 
-## Format
+## How to submit your answer
 
 Create a local copy of this repository on your laptop and link a personal private GitHub repository to it, adding view access for emil.jorgensen@unity3d.com and niels@unity3d.com. You are expected to answer the assignment using one or several Jupyter Notebooks with a suitable combination of headlines, text, code, tables and graphs. Notebooks (.ipynb) should be stored in a dedicated **notebooks** folder, and any executive findings you wish to highlight can be pasted into a slideshow (.gslides, .pptx) in the current **executive slides** folder. Lengthy SQL statements (if used) can optionally be placed in the dedicated folder for that.
 
 *Expected Tooling: Git, GitHub, Python, and SQL*
+
+## How much time to spend
+
+You are expected to dedicate a full evening to answering the Assignment (i.e. 3-4h), *not* including time spent setting up your laptop.
