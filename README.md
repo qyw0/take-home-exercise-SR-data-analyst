@@ -13,20 +13,20 @@ _What is Light Baking in the context of Unity?_
 - How many Creators are using our Lightning tools?
 - What user insights do we have on them?
 - How much time do they generally spend on our Lightning tools?
-- Are they satisfied with our current product/features?
+- Are they satisfied with our current Lightning tools?
 
 **Questions** (Engineering Manager, aka EM)
 
 - Do Creators experience any errors when using our Lightning tools?
-- How many Creators are using “bakeBackend”?
+- How many Creators use “bakeBackend”?
 - Which version of “bakeBackend” is used the most?
-- How many Creators used the menu button in the Unity Editor to find our Lightning tools?
-- What is the preferred size of our light map for Creators?
+- How many Creators use the Menu button in the Unity Editor to find our Lightning tools?
+- What is the preferred Lightmap size?
 
 ## Assignment
 
 **Step 1:**\
-Explore and decribe the information contained in the datasets in words, including any limitations you wish to highlight.\
+Explore and decribe the information contained in the datasets found in the **data** folder in words (!), including any limitations you wish to highlight. Useful information can be found under **documentation**.\
 **Step 2:**\
 Visualise and describe your main findings to the PM.\
 **Step 3:**\
