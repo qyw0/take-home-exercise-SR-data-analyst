@@ -7,7 +7,6 @@ _What is Light Baking in the context of Unity?_
 
 - [How to build Lightmaps in Unity 2020.1 | Tutorial](https://www.youtube.com/watch?v=KJ4fl-KBDR8)
 - Unity Editor documentation: [Light Mode: Baked](https://docs.unity3d.com/Manual/LightMode-Baked.html)
-#
 
 **Questions** (Product Manager, aka PM)
 
@@ -26,12 +25,15 @@ _What is Light Baking in the context of Unity?_
 
 ## Assignment
 
-**Step 1:** Explore and decribe the information contained in the datasets in words, including any limitations you wish to highlight. \\
-**Step 2:** Visualise and describe your main findings to the PM.
-**Step 3:** Visualise and describe your main findings to the EM.
+**Step 1:**\
+Explore and decribe the information contained in the datasets in words, including any limitations you wish to highlight.\
+**Step 2:**\
+Visualise and describe your main findings to the PM.\
+**Step 3:**\
+Visualise and describe your main findings to the EM.
 
 ## Format
 
-Create a local copy of this repository on your laptop and link a personal private Github repository to it, adding view access for emil.jorgensen@unity3d.com and niels@unity3d.com. You are expected to answer the assignment using one or several Jupyter Notebooks with a combination of headlines, text, code and graphs.
+Create a local copy of this repository on your laptop and link a personal private Github repository to it, adding view access for emil.jorgensen@unity3d.com and niels@unity3d.com. You are expected to answer the assignment using one or several Jupyter Notebooks with a suitable combination of headlines, text, code and graphs. Notebooks (.ipynb) should be stored in the **notebooks** folder, and any executive findings you wish to highlight can be pasted into a slideshow (.gslides, .pptx) under **executive slides**. Lengthy SQL statements (if used) can optionally be placed in the dedicated folder.
 
-*Main Tooling: Git, GitHub, Python, and SQL*
+*Expected Tooling: Git, GitHub, Python, and SQL*
