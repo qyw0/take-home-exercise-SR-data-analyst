@@ -26,7 +26,7 @@ _What is Light Baking in the context of Unity?_
 
 ## Assignment
 
-**Step 1:** Explore and decribe the information contained in the datasets in words, including any limitations you wish to highlight.
+**Step 1:** Explore and decribe the information contained in the datasets in words, including any limitations you wish to highlight. \\
 **Step 2:** Visualise and describe your main findings to the PM.
 **Step 3:** Visualise and describe your main findings to the EM.
 
