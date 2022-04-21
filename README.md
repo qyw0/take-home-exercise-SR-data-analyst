@@ -26,7 +26,7 @@ _What are Lightmaps and Baked Lights in the context of Unity?_
 ## Your assignment
 
 **Step 1:**\
-Explore and decribe the information contained in the sample dataset made available for download [here](https://drive.google.com/file/d/114f1iOqYWvgFgMx-QJZEsUEkq5HF84EA/view?usp=sharing) in simple phrases, including any limitations you wish to highlight. Supporting material is provided in the **documentation** folder.\
+Explore and describe the information contained in the sample dataset made available for download [here](https://drive.google.com/file/d/114f1iOqYWvgFgMx-QJZEsUEkq5HF84EA/view?usp=sharing) in simple phrases, including any limitations you wish to highlight. Supporting material is provided in the **documentation** folder.\
 **Step 2:**\
 Visualise and describe your main findings to the PM.\
 **Step 3:**\
