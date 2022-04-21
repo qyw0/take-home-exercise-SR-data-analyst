@@ -1,6 +1,6 @@
 ## Problem description
 
-The Lighting area working within our Unity Editor tribe is hoping to better understand how Creators use their products and features, and have come to you for help. Your task is to help the team validate or refine their questions of interest, explore relevant datasets at our disposal, ask clarifying questions as you progress, and report the main findings and insights back to them at the end. Your primary contacts are the Product Manager and the Engineering Manager of Lighting. Both have related, but different questions that are listed below.
+The Lighting area working within our Unity Editor tribe is hoping to better understand how Creators use their products and features, and have come to you for help. Your task is to help the team validate or refine their questions of interest, explore relevant datasets at our disposal, ask clarifying questions as you progress, and report the main findings and insights back to them at the end. Your primary contacts are the Product Manager (PM) and the Engineering Manager (EM) of Lighting. Both have related, but different questions that are listed below.
 
 _Background:_
 _What is Light Baking in the context of Unity?_
