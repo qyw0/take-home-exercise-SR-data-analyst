@@ -1,7 +1,5 @@
-# Senior-Data-Analysts
-Data & Analytics, Core Unity & Cloud
-
-
+# Take Home Exercise
+SR Data Analyst, Data & Analytics, Core Unity & Cloud
 
 ### Take-Home Exercise
 #
