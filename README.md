@@ -26,7 +26,7 @@ _What is Light Baking in the context of Unity?_
 ## Your assignment
 
 **Step 1:**\
-Explore and decribe the information contained in the datasets found in the **data** folder in words (!), including any limitations you wish to highlight. Useful information can be found under **documentation**.\
+Explore and decribe the information contained in the sample dataset made available for download [here](https://drive.google.com/file/d/114f1iOqYWvgFgMx-QJZEsUEkq5HF84EA/view?usp=sharingin) in words (!), including any limitations you wish to highlight. Supporting material is provided in the **documentation** folder.\
 **Step 2:**\
 Visualise and describe your main findings to the PM.\
 **Step 3:**\
@@ -36,7 +36,9 @@ Visualise and describe your main findings to the EM.
 
 Create a local copy of this repository on your laptop and link a personal private GitHub repository to it, adding view access for emil.jorgensen@unity3d.com and niels@unity3d.com. You are expected to answer the assignment using one or several Jupyter Notebooks with a suitable combination of headlines, text, code, tables and graphs. Notebooks (.ipynb) should be stored in a dedicated **notebooks** folder, and any executive findings you wish to highlight can be pasted into a slideshow (.gslides, .pptx) in the current **executive slides** folder. Lengthy SQL statements (if used) can optionally be placed in the dedicated folder for that.
 
-*Expected Tooling: Git, GitHub, Python, and SQL*
+*Storing static datasets on GitHub is not considered best pratice. Please avoid uploading the sample dataset (.json) to the linked GitHub repository, e.g. by using an appropriate* .gitignore *file.*
+
+**Expected Tooling**: Git, GitHub, Python, and potentially SQL.
 
 ## How much time to spend
 
