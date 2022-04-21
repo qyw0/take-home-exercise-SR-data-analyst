@@ -26,7 +26,7 @@ _What is Light Baking in the context of Unity?_
 ## Your assignment
 
 **Step 1:**\
-Explore and decribe the information contained in the sample dataset made available for download [here](https://drive.google.com/file/d/114f1iOqYWvgFgMx-QJZEsUEkq5HF84EA/view?usp=sharingin) in words (!), including any limitations you wish to highlight. Supporting material is provided in the **documentation** folder.\
+Explore and decribe the information contained in the sample dataset made available for download [here](https://drive.google.com/file/d/114f1iOqYWvgFgMx-QJZEsUEkq5HF84EA/view?usp=sharingin) in simple phrases, including any limitations you wish to highlight. Supporting material is provided in the **documentation** folder.\
 **Step 2:**\
 Visualise and describe your main findings to the PM.\
 **Step 3:**\
