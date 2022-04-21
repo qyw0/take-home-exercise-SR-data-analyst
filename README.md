@@ -8,14 +8,14 @@ _What is Light Baking in the context of Unity?_
 - [How to build Lightmaps in Unity 2020.1 | Tutorial](https://www.youtube.com/watch?v=KJ4fl-KBDR8)
 - Unity Editor documentation: [Light Mode: Baked](https://docs.unity3d.com/Manual/LightMode-Baked.html)
 
-**Questions** (Product Manager, aka PM)
+**Questions** (sent to you via Slack by the Product Manager, aka the PM)
 
 - How many Creators are using our Lightning tools?
 - What user insights do we have on them?
 - How much time do they generally spend on our Lightning tools?
 - Are they satisfied with our current Lightning tools?
 
-**Questions** (Engineering Manager, aka EM)
+**Questions** (sent to you via Slack by the Engineering Manager, aka the EM)
 
 - Do Creators experience any errors when using our Lightning tools?
 - How many Creators use “bakeBackend”?
@@ -34,6 +34,6 @@ Visualise and describe your main findings to the EM.
 
 ## Format
 
-Create a local copy of this repository on your laptop and link a personal private Github repository to it, adding view access for emil.jorgensen@unity3d.com and niels@unity3d.com. You are expected to answer the assignment using one or several Jupyter Notebooks with a suitable combination of headlines, text, code and graphs. Notebooks (.ipynb) should be stored in the **notebooks** folder, and any executive findings you wish to highlight can be pasted into a slideshow (.gslides, .pptx) under **executive slides**. Lengthy SQL statements (if used) can optionally be placed in the dedicated folder.
+Create a local copy of this repository on your laptop and link a personal private Github repository to it, adding view access for emil.jorgensen@unity3d.com and niels@unity3d.com. You are expected to answer the assignment using one or several Jupyter Notebooks with a suitable combination of headlines, text, code, tables and graphs. Notebooks (.ipynb) should be stored in the dedicated **notebooks** folder, and any executive findings you wish to highlight can be pasted into a slideshow (.gslides, .pptx) under **executive slides**. Lengthy SQL statements (if used) can optionally be placed in the dedicated folder for that.
 
 *Expected Tooling: Git, GitHub, Python, and SQL*
