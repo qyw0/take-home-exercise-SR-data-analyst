@@ -1,6 +1,6 @@
 ## Problem description
 
-The Lightning product area working within our large Unity Editor tribe are looking for a better understanding of how Creators use their products and features, and have come to you for help. Your task is to help the teams validate or refine their questions of interest, explore relevant datasets at our disposal, ask clarifying questions as you progress, and report the main findings and insights back to them at the end. Your primary contacts for the task at hand are 1) the Product Manager of Lightning, and 2) the Engineering Manager of Lightning. Both have related, but different questions that are listed below.
+The Lighting product area working within our large Unity Editor tribe are looking for a better understanding of how Creators use their products and features, and have come to you for help. Your task is to help the teams validate or refine their questions of interest, explore relevant datasets at our disposal, ask clarifying questions as you progress, and report the main findings and insights back to them at the end. Your primary contacts for the task at hand are 1) the Product Manager of Lighting, and 2) the Engineering Manager of Lighting. Both have related, but different questions that are listed below.
 
 _Background:_
 _What is Light Baking in the context of Unity?_
@@ -10,17 +10,17 @@ _What is Light Baking in the context of Unity?_
 
 **Questions** (sent to you via Slack by the Product Manager, aka the PM)
 
-- How many Creators are using our Lightning tools?
+- How many Creators are using our Lighting tools?
 - What user insights do we have on them?
-- How much time do they generally spend on our Lightning tools?
+- How much time do they generally spend on our Lighting tools?
 - Are they satisfied with our current offerings?
 
 **Questions** (sent to you via Slack by the Engineering Manager, aka the EM)
 
-- Do Creators experience any errors when using our Lightning tools?
+- Do Creators experience any errors when using our Lighting tools?
 - How many Creators use “bakeBackend”?
 - Which version of “bakeBackend” is used the most?
-- How many Creators use the Menu button in the Unity Editor to find our Lightning tools?
+- How many Creators use the Menu button in the Unity Editor to find our Lighting tools?
 - What is the preferred Lightmap size?
 
 ## Your assignment
