@@ -5,8 +5,8 @@ The Lighting area working within our Unity Editor tribe is hoping to better unde
 _Background:_
 _What are Lightmaps and Baked Lights in the context of Unity?_
 
-- [How to build Lightmaps in Unity 2020.1 | Tutorial](https://www.youtube.com/watch?v=KJ4fl-KBDR8)
-- Unity Editor documentation: [Light Mode: Baked](https://docs.unity3d.com/Manual/LightMode-Baked.html)
+- YouTube Tutorial: [How to build Lightmaps in Unity 2020.1](https://www.youtube.com/watch?v=KJ4fl-KBDR8)
+- Official Unity Editor documentation: [Light Mode: Baked](https://docs.unity3d.com/Manual/LightMode-Baked.html)
 
 **Questions** (sent to you via Slack by the PM)
 
