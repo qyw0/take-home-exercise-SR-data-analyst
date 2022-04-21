@@ -34,6 +34,6 @@ Visualise and describe your main findings to the EM.
 
 ## Format
 
-Create a local copy of this repository on your laptop and link a personal private Github repository to it, adding view access for emil.jorgensen@unity3d.com and niels@unity3d.com. You are expected to answer the assignment using one or several Jupyter Notebooks with a suitable combination of headlines, text, code, tables and graphs. Notebooks (.ipynb) should be stored in the dedicated **notebooks** folder, and any executive findings you wish to highlight can be pasted into a slideshow (.gslides, .pptx) under **executive slides**. Lengthy SQL statements (if used) can optionally be placed in the dedicated folder for that.
+Create a local copy of this repository on your laptop and link a personal private Github repository to it, adding view access for emil.jorgensen@unity3d.com and niels@unity3d.com. You are expected to answer the assignment using one or several Jupyter Notebooks with a suitable combination of headlines, text, code, tables and graphs. Notebooks (.ipynb) should be stored in a dedicated **notebooks** folder, and any executive findings you wish to highlight can be pasted into a slideshow (.gslides, .pptx) in the current **executive slides** folder. Lengthy SQL statements (if used) can optionally be placed in the dedicated folder for that.
 
 *Expected Tooling: Git, GitHub, Python, and SQL*
