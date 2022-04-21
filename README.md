@@ -1,6 +1,6 @@
 ## Problem Description
 
-The Lightning product area working within our large Unity Editor tribe are looking for a better understanding of how Creators use their products and features, and have come to you for help. Your task is to help the team validate or refine their questions of interest, explore relevant datasets at our disposal, ask clarifying questions as you progress, and report the main findings and insights back to them at the end. Your primary contacts for the task at hand are 1) the Product Manager of Lightning, and 2) the Engineering Manager of Lightning. Both have related, but different questions that are listed below.
+The Lightning product area working within our large Unity Editor tribe are looking for a better understanding of how Creators use their products and features, and have come to you for help. Your task is to help the teams validate or refine their questions of interest, explore relevant datasets at our disposal, ask clarifying questions as you progress, and report the main findings and insights back to them at the end. Your primary contacts for the task at hand are 1) the Product Manager of Lightning, and 2) the Engineering Manager of Lightning. Both have related, but different questions that are listed below.
 
 _Background:_
 _What is Light Baking in the context of Unity?_
@@ -13,7 +13,7 @@ _What is Light Baking in the context of Unity?_
 - How many Creators are using our Lightning tools?
 - What user insights do we have on them?
 - How much time do they generally spend on our Lightning tools?
-- Are they satisfied with our current Lightning tools?
+- Are they satisfied with our current offerings?
 
 **Questions** (sent to you via Slack by the Engineering Manager, aka the EM)
 
@@ -34,6 +34,6 @@ Visualise and describe your main findings to the EM.
 
 ## Format
 
-Create a local copy of this repository on your laptop and link a personal private Github repository to it, adding view access for emil.jorgensen@unity3d.com and niels@unity3d.com. You are expected to answer the assignment using one or several Jupyter Notebooks with a suitable combination of headlines, text, code, tables and graphs. Notebooks (.ipynb) should be stored in a dedicated **notebooks** folder, and any executive findings you wish to highlight can be pasted into a slideshow (.gslides, .pptx) in the current **executive slides** folder. Lengthy SQL statements (if used) can optionally be placed in the dedicated folder for that.
+Create a local copy of this repository on your laptop and link a personal private GitHub repository to it, adding view access for emil.jorgensen@unity3d.com and niels@unity3d.com. You are expected to answer the assignment using one or several Jupyter Notebooks with a suitable combination of headlines, text, code, tables and graphs. Notebooks (.ipynb) should be stored in a dedicated **notebooks** folder, and any executive findings you wish to highlight can be pasted into a slideshow (.gslides, .pptx) in the current **executive slides** folder. Lengthy SQL statements (if used) can optionally be placed in the dedicated folder for that.
 
 *Expected Tooling: Git, GitHub, Python, and SQL*
