@@ -42,4 +42,4 @@ Create a local copy of this repository on your laptop and link a personal privat
 
 ## How much time to spend
 
-You are expected to dedicate a full evening to answering the Assignment (i.e. 3-4h), *not* including time spent setting up your laptop.
+You are expected to dedicate the equivalent of a full evening to answering the assignment (i.e. 3-4h), *not* including time spent setting up your laptop.
