@@ -1,6 +1,6 @@
 ## Problem description
 
-The Lighting area working within our Unity Editor tribe is hoping to better understand how Creators use their products and features, and have come to you for help. Your task is to help the team validate or refine their questions of interest, explore relevant datasets at our disposal, ask clarifying questions as you progress, and report the main findings and insights back to them at the end. Your primary contacts for the task at hand are 1) the Product Manager of Lighting, and 2) the Engineering Manager of Lighting. Both have related, but different questions that are listed below.
+The Lighting area working within our Unity Editor tribe is hoping to better understand how Creators use their products and features, and have come to you for help. Your task is to help the team validate or refine their questions of interest, explore relevant datasets at our disposal, ask clarifying questions as you progress, and report the main findings and insights back to them at the end. Your primary contacts are 1) the Product Manager, and 2) the Engineering Manager. Both have related, but different questions that are listed below.
 
 _Background:_
 _What is Light Baking in the context of Unity?_
@@ -8,14 +8,14 @@ _What is Light Baking in the context of Unity?_
 - [How to build Lightmaps in Unity 2020.1 | Tutorial](https://www.youtube.com/watch?v=KJ4fl-KBDR8)
 - Unity Editor documentation: [Light Mode: Baked](https://docs.unity3d.com/Manual/LightMode-Baked.html)
 
-**Questions** (sent to you via Slack by the Product Manager, aka the PM)
+**Questions** (sent to you via Slack by the PM)
 
 - How many Creators are using our Lighting tools?
 - What user insights do we have on them?
 - How much time do they generally spend on our Lighting tools?
 - Are they satisfied with our current offerings?
 
-**Questions** (sent to you via Slack by the Engineering Manager, aka the EM)
+**Questions** (sent to you via Slack by the EM)
 
 - Do Creators experience any errors when using our Lighting tools?
 - How many Creators use “bakeBackend”?
