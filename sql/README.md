@@ -1,1 +1,1 @@
-**Purpose**: A place to store lengthy SQL queries (Optional)
+**Purpose**: A place to store lengthier SQL queries (Optional)
