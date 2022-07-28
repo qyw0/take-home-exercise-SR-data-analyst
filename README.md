@@ -34,7 +34,7 @@ Visualise and describe your main findings to the EM.
 
 ## How to submit your answer
 
-Create a local copy of this repository on your laptop and link a personal private GitHub repository to it, adding view access for {emil.jorgensen, deniz.cavas, niels}@unity3d.com. You are expected to answer the assignment using one or several Jupyter Notebooks with a suitable combination of headlines, text, code, tables and graphs. Notebooks (.ipynb) should be stored in a dedicated **notebooks** folder, and any executive findings you wish to highlight can be pasted into a slideshow (.gslides, .pptx) in the current **executive slides** folder. Lengthy SQL statements (if used) can optionally be placed in the dedicated folder for that.
+Create a local copy of this repository on your laptop and link a personal private GitHub repository to it, adding view access for {emil.jorgensen, deniz.cavas, @kiarash.keshmiri}@unity3d.com. You are expected to answer the assignment using one or several Jupyter Notebooks with a suitable combination of headlines, text, code, tables and graphs. Notebooks (.ipynb) should be stored in a dedicated **notebooks** folder, and any executive findings you wish to highlight can be pasted into a slideshow (.gslides, .pptx) in the current **executive slides** folder. Lengthy SQL statements (if used) can optionally be placed in the dedicated folder for that.
 
 *Storing static datasets on GitHub is not considered best practice. Please avoid uploading the sample dataset (.json) to your personal linked GitHub repository, e.g. by creating and invoking an appropriate* .gitignore *file.*
 
